@@ -1,6 +1,10 @@
 ﻿namespace RetailApp.Entities;
 
-public class shopCart
+public class ShopCart
 {
-public int shop { get; set; }
+public int shopCartId { get; set; }
+public Product product { get;}
+public Customer customer { get; set; }
+
+public  Order order { get; set; }
 }
