@@ -2,7 +2,7 @@
 
 public class ShopCart
 {
-public int shopCartId { get; set; }
+public int ShopCartId { get; set; }
 public Product product { get;}
 public Customer customer { get; set; }
 

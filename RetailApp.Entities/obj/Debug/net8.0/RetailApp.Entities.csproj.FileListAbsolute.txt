@@ -1,0 +1,15 @@
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.Entities/bin/Debug/net8.0/RetailApp.Entities.deps.json
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.Entities/bin/Debug/net8.0/RetailApp.Entities.dll
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.Entities/bin/Debug/net8.0/RetailApp.Entities.pdb
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.Entities/obj/Debug/net8.0/RetailApp.Entities.csproj.AssemblyReference.cache
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.Entities/obj/Debug/net8.0/RetailApp.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.Entities/obj/Debug/net8.0/RetailApp.Entities.AssemblyInfoInputs.cache
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.Entities/obj/Debug/net8.0/RetailApp.Entities.AssemblyInfo.cs
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.Entities/obj/Debug/net8.0/RetailApp.Entities.csproj.CoreCompileInputs.cache
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.Entities/obj/Debug/net8.0/RetailApp.Entities.sourcelink.json
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.Entities/obj/Debug/net8.0/RetailApp.Entities.dll
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.Entities/obj/Debug/net8.0/refint/RetailApp.Entities.dll
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.Entities/obj/Debug/net8.0/RetailApp.Entities.pdb
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.Entities/obj/Debug/net8.0/ref/RetailApp.Entities.dll
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.Entities/bin/Debug/net8.0/RetailApp.Entities.runtimeconfig.json
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.Entities/obj/Debug/net8.0/RetailApp.Entities.genruntimeconfig.cache

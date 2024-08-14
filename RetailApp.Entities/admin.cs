@@ -1,8 +1,9 @@
 ﻿namespace RetailApp.Entities;
 
-public class admin:User
+public class Admin
 {
-public string adminName { get; set; }
-public int adminId { get; set; }
-public string adminAddress { get; set;}
+public int AdminId { get; set; }
+public string AdminName { get; set;}
+
+public string AdminAddress { get; set; }
 }

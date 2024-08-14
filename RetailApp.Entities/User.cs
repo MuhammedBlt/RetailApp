@@ -2,7 +2,7 @@
 
 public class User
 {
- public int userId { get; set; }
- public int userPassword { get; set; }
+ public int UserId { get; set; }
+ public int UserPassword { get; set; }
  
 }

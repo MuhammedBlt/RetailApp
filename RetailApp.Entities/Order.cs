@@ -2,10 +2,10 @@
 
 public class Order
 {
-public int orderId { get; set; }
-public DateTime orderDate { get; set; }
-public int orderCost { get; set; }
-public int orderQuantity { get; set; }
+public int OrderId { get; set; }
+public DateTime OrderDate { get; set; }
+public int  OrderCost { get; set; }
+public int OrderQuantity { get; set; }
 
 public Customer customer { get; set; }
 
