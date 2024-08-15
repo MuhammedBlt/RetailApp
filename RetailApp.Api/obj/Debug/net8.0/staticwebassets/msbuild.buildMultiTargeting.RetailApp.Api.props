@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/RetailApp.Api.props" />
+</Project>

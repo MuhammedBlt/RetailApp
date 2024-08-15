@@ -24,21 +24,21 @@ namespace RetailApp.Entities.Migrations
 
             modelBuilder.Entity("RetailApp.Entities.Admin", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<int>("AdminId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("integer");
 
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("Id"));
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("AdminId"));
 
-                    b.Property<string>("Address")
+                    b.Property<string>("AdminAddress")
                         .IsRequired()
                         .HasColumnType("text");
 
-                    b.Property<string>("Name")
+                    b.Property<string>("AdminName")
                         .IsRequired()
                         .HasColumnType("text");
 
-                    b.HasKey("Id");
+                    b.HasKey("AdminId");
 
                     b.ToTable("Admins");
                 });
@@ -90,25 +90,25 @@ namespace RetailApp.Entities.Migrations
 
             modelBuilder.Entity("RetailApp.Entities.Order", b =>
                 {
-                    b.Property<int>("orderId")
+                    b.Property<int>("OrderId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("integer");
 
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("orderId"));
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("OrderId"));
 
                     b.Property<int>("CustomerId")
                         .HasColumnType("integer");
 
-                    b.Property<int>("orderCost")
+                    b.Property<int>("OrderCost")
                         .HasColumnType("integer");
 
-                    b.Property<DateTime>("orderDate")
+                    b.Property<DateTime>("OrderDate")
                         .HasColumnType("timestamp with time zone");
 
-                    b.Property<int>("orderQuantity")
+                    b.Property<int>("OrderQuantity")
                         .HasColumnType("integer");
 
-                    b.HasKey("orderId");
+                    b.HasKey("OrderId");
 
                     b.HasIndex("CustomerId");
 
@@ -123,7 +123,7 @@ namespace RetailApp.Entities.Migrations
 
                     NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("OrderDetailId"));
 
-                    b.Property<int>("Quantity")
+                    b.Property<int>("OrderQuantity")
                         .HasColumnType("integer");
 
                     b.Property<int>("TaxStatus")
@@ -168,23 +168,23 @@ namespace RetailApp.Entities.Migrations
 
             modelBuilder.Entity("RetailApp.Entities.ShopCart", b =>
                 {
-                    b.Property<int>("shopCartId")
+                    b.Property<int>("ShopCartId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("integer");
 
-                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("shopCartId"));
+                    NpgsqlPropertyBuilderExtensions.UseIdentityByDefaultColumn(b.Property<int>("ShopCartId"));
 
                     b.Property<int>("CustomerId")
                         .HasColumnType("integer");
 
-                    b.Property<int>("orderId")
+                    b.Property<int>("OrderId")
                         .HasColumnType("integer");
 
-                    b.HasKey("shopCartId");
+                    b.HasKey("ShopCartId");
 
                     b.HasIndex("CustomerId");
 
-                    b.HasIndex("orderId");
+                    b.HasIndex("OrderId");
 
                     b.ToTable("ShopCarts");
                 });
@@ -221,7 +221,7 @@ namespace RetailApp.Entities.Migrations
 
                     b.HasOne("RetailApp.Entities.Order", "order")
                         .WithMany()
-                        .HasForeignKey("orderId")
+                        .HasForeignKey("OrderId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 

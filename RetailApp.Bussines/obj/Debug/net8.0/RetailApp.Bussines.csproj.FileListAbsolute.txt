@@ -1,0 +1,12 @@
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.Bussines/bin/Debug/net8.0/RetailApp.Bussines.deps.json
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.Bussines/bin/Debug/net8.0/RetailApp.Bussines.dll
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.Bussines/bin/Debug/net8.0/RetailApp.Bussines.pdb
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.Bussines/obj/Debug/net8.0/RetailApp.Bussines.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.Bussines/obj/Debug/net8.0/RetailApp.Bussines.AssemblyInfoInputs.cache
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.Bussines/obj/Debug/net8.0/RetailApp.Bussines.AssemblyInfo.cs
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.Bussines/obj/Debug/net8.0/RetailApp.Bussines.csproj.CoreCompileInputs.cache
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.Bussines/obj/Debug/net8.0/RetailApp.Bussines.sourcelink.json
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.Bussines/obj/Debug/net8.0/RetailApp.Bussines.dll
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.Bussines/obj/Debug/net8.0/refint/RetailApp.Bussines.dll
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.Bussines/obj/Debug/net8.0/RetailApp.Bussines.pdb
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.Bussines/obj/Debug/net8.0/ref/RetailApp.Bussines.dll

@@ -1,36 +1,17 @@
-﻿using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
-namespace RetailApp.Entities;
-
-public class RetailApp:DbContext{
-    public DbSet<Category>Categories { get; set; }
-    public DbSet<Admin>Admins { get; set; }
-
-    public DbSet<Order>Orders { get; set; }
-    public DbSet<Customer>Customers { get; set; }
-
-    public DbSet<ShopCart>ShopCarts { get; set; }
-
-    public DbSet<OrderDetail>OrderDetails { get; set; }
-    public DbSet<Product>Products { get; set; }
-
-
-
-
-
-    protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-    {
-        optionsBuilder.UseNpgsql("Host=localhost;Database=postgres;Username=postgres;Password=1234"
-);
-    }
-    
-    
-}
-
-public class Category
+namespace RetailApp.Entities
 {
-public int Id { get; set; }
-public int Name { get; set;}
-public int CategoryType { get; set;}
+    public class Category
+    {
 
+
+        public int CategoryId { get; set; }
+        public string Name { get; set; } = string.Empty;
+        public string CategoryType { get; set; } = string.Empty;
+
+    }
 }

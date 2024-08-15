@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0pPpS21SSDoIv9cLJvC+EFoa2fMYh6bl6c5YeSIXVWs=",
+  "Source": "RetailApp.Api",
+  "BasePath": "_content/RetailApp.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

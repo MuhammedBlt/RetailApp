@@ -1,0 +1,12 @@
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.DataAccess/bin/Debug/net8.0/RetailApp.DataAccess.deps.json
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.DataAccess/bin/Debug/net8.0/RetailApp.DataAccess.dll
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.DataAccess/bin/Debug/net8.0/RetailApp.DataAccess.pdb
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.DataAccess/obj/Debug/net8.0/RetailApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.DataAccess/obj/Debug/net8.0/RetailApp.DataAccess.AssemblyInfoInputs.cache
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.DataAccess/obj/Debug/net8.0/RetailApp.DataAccess.AssemblyInfo.cs
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.DataAccess/obj/Debug/net8.0/RetailApp.DataAccess.csproj.CoreCompileInputs.cache
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.DataAccess/obj/Debug/net8.0/RetailApp.DataAccess.sourcelink.json
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.DataAccess/obj/Debug/net8.0/RetailApp.DataAccess.dll
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.DataAccess/obj/Debug/net8.0/refint/RetailApp.DataAccess.dll
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.DataAccess/obj/Debug/net8.0/RetailApp.DataAccess.pdb
+/Users/muhammedbulut/Desktop/untitled folder/RetailApp.DataAccess/obj/Debug/net8.0/ref/RetailApp.DataAccess.dll
