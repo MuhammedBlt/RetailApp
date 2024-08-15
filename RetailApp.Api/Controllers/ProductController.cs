@@ -11,12 +11,11 @@ namespace RetailApp.Api.Controllers
     [ApiController]
     public class TestController : ControllerBase
     {
-        // GET: api/test
+    
         [HttpGet]
         public IActionResult Get()
         {
-            // Basit bir "deneme" mesajı döndürüyoruz
-            return Ok("Bu bir deneme endpoint'idir.");
+            return Ok("Bu bir deneme");
         }
     }
 }
